@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ashish
 - 👀 I’m interested in Developing Marvelous Codes
-- 🌱 I’m currently into Machine learning  
-- 💞️ I’m looking to collaborate on Computer Vision
 - 📫 How to reach me just Drop a "Hi" on Instagram @raahguzaar
 
 <!---
